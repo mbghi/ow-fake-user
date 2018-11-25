@@ -5,5 +5,6 @@ just download and copy it to your theme->page-templates
 build a page by ow-fake-user template 
 build a list of user names, or names, add it in the input form in that page and click on generate
 
+![alt text](https://www.onwebsite.ir/wp-content/uploads/2018/11/fake_user.png)
 
 enjoy
